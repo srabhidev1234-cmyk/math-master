@@ -1,0 +1,26 @@
+{
+  "id": "/math-master/",
+  "name": "Math Master",
+  "short_name": "MathMaster",
+  "description": "Master multiplication tables, squares, and cubes offline.",
+  "start_url": "/math-master/index.html",
+  "scope": "/math-master/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#121212",
+  "theme_color": "#bb86fc",
+  "icons": [
+    {
+      "src": "https://github.com/srabhidev1234-cmyk.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://github.com/srabhidev1234-cmyk.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
